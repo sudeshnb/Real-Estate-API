@@ -1,0 +1,14 @@
+{
+    "discount":[
+       { 
+        "image":"https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aG91c2V8ZW58MHx8MHx8fDA%3D",
+        "title":"Halloween Sale!",
+        "description":"All discount up to 60%"
+    },
+    { 
+        "image":"https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aG91c2V8ZW58MHx8MHx8fDA%3D",
+        "title":"Summer Vacation",
+        "description":"All discount up to 40%"
+    }
+    ]
+}
